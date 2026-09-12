@@ -45,5 +45,10 @@ Tech Stack & Tools
 
 •	Data Sources: Sales-Dashboard-_Data[2].xlsx
 
+Dashboard Screenshot
+
+<img width="957" height="531" alt="Screenshot 2026-08-28 020238" src="https://github.com/user-attachments/assets/b4b549f8-48dc-4591-b615-e08f02867b48" />
+
+
 
 
