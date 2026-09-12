@@ -36,7 +36,7 @@ Tech Stack & Tools
 
 •	Analytics Tool: Power BI  
 
-•	Data Sources: 
+•	Data Sources: Sales-Dashboard-_Data[2].xlsx
 
 
 
